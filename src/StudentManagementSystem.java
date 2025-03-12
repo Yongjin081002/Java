@@ -11,7 +11,7 @@ public class StudentManagementSystem {
             System.out.println("\n📌 학생 관리 시스템");
             System.out.println("1. 학생 추가");
             System.out.println("2. 학생 조회");
-            System.out.println("3. 학생 삭제");
+            System.out.println("3학생 삭제");
             System.out.println("4.종료");
             System.out.print("선택: ");
 
